@@ -1,0 +1,38 @@
+/* Fill CSS here */
+h1{
+    text-align: center;
+    color: #1268ab;
+    text-decoration: underline;
+}
+
+div{
+    display: flex;
+    height: auto;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+thead{
+    background-color: #1268ab;
+    border: 1px solid black;
+    height: 20px;
+}
+th{
+    
+    padding: 10px;
+    color: white;
+}
+
+table{
+    text-align: center;
+}
+
+form{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 18%;
+    padding: 20px;
+    height: 340px;
+}
+input{
+    padding: 7px;
+}
